@@ -493,6 +493,11 @@ MonoBehaviour:
   - {fileID: 7662266659007147989, guid: 3bd7c0d13db1c4f1a87cad9d7e1b6e88, type: 3}
   - {fileID: 7662266659007147989, guid: d720b5d2a64bf418b8290ea72d231ea2, type: 3}
   - {fileID: 7662266659007147989, guid: 7356400c880b04482a130f77ab4b34c9, type: 3}
+  - {fileID: 4516170754769092504, guid: cfe5f94053251e842ad4786b012b367a, type: 3}
+  - {fileID: 274570281412182806, guid: 403a041f879616a4dbb387db4662f725, type: 3}
+  - {fileID: 1672930733592673847, guid: 1c7e321738be52548819b3861e4d220b, type: 3}
+  - {fileID: 7662266659007147989, guid: e7b7e746a420db84cbedfce462c1d7b1, type: 3}
+  - {fileID: 4516170754769092504, guid: 64106e3dd2660ca44b82f5cef4ca3ea3, type: 3}
   distanceFromImage: 0.1
   rotationX: 55
   rotationY: 0
